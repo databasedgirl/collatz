@@ -24,7 +24,9 @@ python main.py 3
 
 ## Rules
 Number must be positive <sub>_(Above 0)_</sub>
+
 If number is even, it will be divided by 2
+
 If number is odd, it will be multiplied by 3 and have a 1 added to it, which will make it even.
 
 | Number Type | Method |
