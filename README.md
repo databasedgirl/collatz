@@ -35,6 +35,7 @@ If number is odd, it will be multiplied by 3 and have a 1 added to it, which wil
 This will happen in a cycle until the formula reaches the following final numbers: _4,2,1_
 
 ## Hands on
+![Graph showing progression of numbers](https://github.com/user-attachments/assets/929bfc88-0b9c-4460-a243-fe203a1f7a68)
 
 
 ## Sources
