@@ -6,7 +6,7 @@ I took inspiration on the following video for this project: [The Simplest Math P
 <sub>_PS: This project is not a "solution for the unsolvable problem". It is simply a visualizer._</sub>
 ## Installation
 ```
-pip -r requirements.txt
+pip install -r requirements.txt
 ```
 ## Configuration
 Create a file called .env and insert the following contents
